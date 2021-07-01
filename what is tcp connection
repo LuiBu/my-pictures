@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T11:07:44.156Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.3" etag="jiQg9RF-4o1X9AewEj4H" type="github"><diagram id="6_rEhD_SfFluwJvdWNrh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-01T11:16:04.852Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="8NaTavJIYKIB69TSCu6t" version="14.8.3" type="github">
+  <diagram id="6_rEhD_SfFluwJvdWNrh" name="Page-1">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TJ250g9kpAeiWr3kaAfR-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="196" y="96" width="348" height="348" as="geometry" />
+        </mxCell>
+        <mxCell id="TJ250g9kpAeiWr3kaAfR-1" value="Sockets" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="311" y="198" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TJ250g9kpAeiWr3kaAfR-2" value="&lt;font color=&quot;#ffffff&quot;&gt;Window Size&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TJ250g9kpAeiWr3kaAfR-3" value="Sequence Number" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="311" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TJ250g9kpAeiWr3kaAfR-6" value="WHAT IS TCP CONNECTION?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="140" width="240" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
