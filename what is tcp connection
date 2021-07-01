@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T11:20:59.678Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ATaNy6RKDXqCqqYiEIDf" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T12:00:32.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="TNU1PcEMY5I-ZRDZNYwl" version="14.8.3" type="github">
   <diagram id="6_rEhD_SfFluwJvdWNrh" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TJ250g9kpAeiWr3kaAfR-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#333333;strokeWidth=0;fillColor=#f5f5f5;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="196" y="96" width="348" height="348" as="geometry" />
+        <mxCell id="TJ250g9kpAeiWr3kaAfR-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="131" y="130" width="480" height="280" as="geometry" />
         </mxCell>
         <mxCell id="TJ250g9kpAeiWr3kaAfR-1" value="Sockets" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="311" y="198" width="120" height="60" as="geometry" />
