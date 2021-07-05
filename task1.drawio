@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T12:37:39.220Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="JrrQrYTzi0TSMmR_S1d-" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T12:39:11.416Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="eFWoitnUKofmbRPEObtG" version="14.8.3" type="github">
   <diagram id="rz1KsX1LBBxK1U_NVxyd" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,16 +16,19 @@
         <mxCell id="ALcbTceGyTp7UnQ64aSR-6" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;任意直播间下单或浏览直播间3次（1/1） +5元优惠券&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ALcbTceGyTp7UnQ64aSR-4">
           <mxGeometry x="20" y="20" width="250" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ALcbTceGyTp7UnQ64aSR-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="ALcbTceGyTp7UnQ64aSR-4" source="ALcbTceGyTp7UnQ64aSR-7" target="ALcbTceGyTp7UnQ64aSR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ALcbTceGyTp7UnQ64aSR-7" value="&lt;div style=&quot;text-align: left ; font-size: 11px&quot;&gt;&lt;font color=&quot;#172b4d&quot; style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(23 , 43 , 77) ; text-align: left ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;任意直播间浏览30s&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 11px ; color: rgb(23 , 43 , 77) ; text-align: left&quot;&gt;(3/3)&amp;nbsp; &amp;nbsp; &amp;nbsp; +5微豆&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 43 , 77) ; text-align: left ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ALcbTceGyTp7UnQ64aSR-4">
           <mxGeometry x="40" y="70" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ALcbTceGyTp7UnQ64aSR-11" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;任意直播间下单(0/1)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; +5微豆&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ALcbTceGyTp7UnQ64aSR-4">
           <mxGeometry x="40" y="130" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ALcbTceGyTp7UnQ64aSR-17" value="去完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ALcbTceGyTp7UnQ64aSR-4">
+        <mxCell id="ALcbTceGyTp7UnQ64aSR-17" value="已完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="ALcbTceGyTp7UnQ64aSR-4">
           <mxGeometry x="280" y="25" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ALcbTceGyTp7UnQ64aSR-18" value="已完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ALcbTceGyTp7UnQ64aSR-4">
+        <mxCell id="ALcbTceGyTp7UnQ64aSR-18" value="已完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="ALcbTceGyTp7UnQ64aSR-4">
           <mxGeometry x="280" y="75" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ALcbTceGyTp7UnQ64aSR-21" value="去完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ALcbTceGyTp7UnQ64aSR-4">
