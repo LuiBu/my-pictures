@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T13:11:05.979Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zq4ue6yQG9_dLMQkbRH2" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T13:12:46.997Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="TTPTINab6x7oqtGANatm" version="20.0.1" type="github">
   <diagram id="E3Z8DU7rsKhTcNKBszmc" name="第 1 页">
     <mxGraphModel dx="2583" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="fx6XACOJ97KmfRR1mUUg-12" value="v=此次需要开发的接口" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="136" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fx6XACOJ97KmfRR1mUUg-14" value="对比/放量期结束后" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="fx6XACOJ97KmfRR1mUUg-14" value="全量转发期" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="76" y="15" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fx6XACOJ97KmfRR1mUUg-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;" vertex="1" parent="1">
@@ -84,7 +84,7 @@
         <mxCell id="fx6XACOJ97KmfRR1mUUg-27" value="v=此次需要开发的接口" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="894" y="400" width="136" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fx6XACOJ97KmfRR1mUUg-28" value="业务方更换请求接口为v" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="fx6XACOJ97KmfRR1mUUg-28" value="业务对接期" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="610" y="15" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fx6XACOJ97KmfRR1mUUg-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -145,7 +145,7 @@
         <mxCell id="fx6XACOJ97KmfRR1mUUg-44" value="v=此次需要开发的接口" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-176" y="400" width="136" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fx6XACOJ97KmfRR1mUUg-45" value="对比/放量期间" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="fx6XACOJ97KmfRR1mUUg-45" value="对比/放量期" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="-460" y="15" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fx6XACOJ97KmfRR1mUUg-46" value="读对比" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
