@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T12:53:25.338Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="O1Q_KCYyPpQ4f6m3j5eo" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T12:57:31.966Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rkCgo3kKD78rhsLIzzTZ" version="20.0.1" type="github">
   <diagram id="E3Z8DU7rsKhTcNKBszmc" name="第 1 页">
     <mxGraphModel dx="929" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,36 @@
         </mxCell>
         <mxCell id="fx6XACOJ97KmfRR1mUUg-12" value="v=此次需要开发的接口" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fx6XACOJ97KmfRR1mUUg-14" value="对比/放量期结束后" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="76" y="15" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fx6XACOJ97KmfRR1mUUg-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="610" y="46" width="430" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="fx6XACOJ97KmfRR1mUUg-22" value="v" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="769" y="360" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fx6XACOJ97KmfRR1mUUg-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fx6XACOJ97KmfRR1mUUg-26" target="fx6XACOJ97KmfRR1mUUg-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fx6XACOJ97KmfRR1mUUg-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fx6XACOJ97KmfRR1mUUg-26" target="fx6XACOJ97KmfRR1mUUg-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fx6XACOJ97KmfRR1mUUg-26" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="804" y="50" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fx6XACOJ97KmfRR1mUUg-27" value="v=此次需要开发的接口" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="894" y="400" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fx6XACOJ97KmfRR1mUUg-28" value="业务方更换请求接口为v后" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="610" y="15" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fx6XACOJ97KmfRR1mUUg-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="240" as="sourcePoint" />
+            <mxPoint x="600" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
