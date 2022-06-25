@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T17:06:15.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ai5QQvJCyr9Y0lCVJ0Lm" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-25T17:10:10.678Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="TOGMEArVNHiuxnF9DRzn" version="20.0.1" type="github">
   <diagram id="D-ijLC6CdJRX07PolVYX" name="第 1 页">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Zfp4y9QuCnKmqa6ml60_-1" value="微拍指数-参考价格生成流程图" style="swimlane;startSize=23;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Zfp4y9QuCnKmqa6ml60_-43" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=1;labelBorderColor=default;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="78" y="198" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Zfp4y9QuCnKmqa6ml60_-1" value="微拍指数-参考价格生成流程图" style="swimlane;startSize=23;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;rounded=0;swimlaneLine=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="250" width="480" height="430" as="geometry" />
         </mxCell>
         <mxCell id="Zfp4y9QuCnKmqa6ml60_-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zfp4y9QuCnKmqa6ml60_-1">
