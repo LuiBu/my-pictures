@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T17:10:10.678Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="TOGMEArVNHiuxnF9DRzn" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-25T17:17:50.251Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="6xZGJPrTVaOqNR6pVDRG" version="20.0.1" type="github">
   <diagram id="D-ijLC6CdJRX07PolVYX" name="第 1 页">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,29 +33,23 @@
         <mxCell id="Zfp4y9QuCnKmqa6ml60_-10" value="获取n个标签对应的同类型商品数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zfp4y9QuCnKmqa6ml60_-1">
           <mxGeometry x="144" y="89" width="71" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Zfp4y9QuCnKmqa6ml60_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Zfp4y9QuCnKmqa6ml60_-1" source="Zfp4y9QuCnKmqa6ml60_-11" target="Zfp4y9QuCnKmqa6ml60_-12">
+        <mxCell id="Zfp4y9QuCnKmqa6ml60_-21" value="缓存" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Zfp4y9QuCnKmqa6ml60_-1" source="Zfp4y9QuCnKmqa6ml60_-11" target="Zfp4y9QuCnKmqa6ml60_-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zfp4y9QuCnKmqa6ml60_-11" value="清洗商品数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zfp4y9QuCnKmqa6ml60_-1">
+        <mxCell id="Zfp4y9QuCnKmqa6ml60_-11" value="处理商品数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zfp4y9QuCnKmqa6ml60_-1">
           <mxGeometry x="144" y="182" width="71" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Zfp4y9QuCnKmqa6ml60_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Zfp4y9QuCnKmqa6ml60_-1" source="Zfp4y9QuCnKmqa6ml60_-12" target="Zfp4y9QuCnKmqa6ml60_-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zfp4y9QuCnKmqa6ml60_-12" value="k单位时间内的成交均价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zfp4y9QuCnKmqa6ml60_-1">
-          <mxGeometry x="144" y="279" width="71" height="50" as="geometry" />
+          <mxGeometry x="144" y="289" width="71" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Zfp4y9QuCnKmqa6ml60_-15" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Zfp4y9QuCnKmqa6ml60_-1">
           <mxGeometry y="23" width="120" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="Zfp4y9QuCnKmqa6ml60_-17" value="商品标签" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Zfp4y9QuCnKmqa6ml60_-1" source="Zfp4y9QuCnKmqa6ml60_-16" target="Zfp4y9QuCnKmqa6ml60_-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Zfp4y9QuCnKmqa6ml60_-16" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Zfp4y9QuCnKmqa6ml60_-1">
-          <mxGeometry x="40" y="94" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Zfp4y9QuCnKmqa6ml60_-25" value="参考价格范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zfp4y9QuCnKmqa6ml60_-1">
-          <mxGeometry x="24.5" y="279" width="71" height="50" as="geometry" />
+          <mxGeometry x="24.5" y="289" width="71" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Zfp4y9QuCnKmqa6ml60_-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zfp4y9QuCnKmqa6ml60_-1">
           <mxGeometry x="360" y="23" width="120" height="407" as="geometry" />
@@ -97,6 +91,12 @@
           <mxGeometry x="0.2714" y="3" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Zfp4y9QuCnKmqa6ml60_-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=50;exitDy=40;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=default;" edge="1" parent="Zfp4y9QuCnKmqa6ml60_-1" source="Zfp4y9QuCnKmqa6ml60_-49" target="Zfp4y9QuCnKmqa6ml60_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zfp4y9QuCnKmqa6ml60_-49" value="拍品页" style="shape=note;size=20;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBorderColor=default;fillColor=#FFFFFF;" vertex="1" parent="Zfp4y9QuCnKmqa6ml60_-1">
+          <mxGeometry x="35" y="74" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
