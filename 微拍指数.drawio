@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T17:17:50.251Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="6xZGJPrTVaOqNR6pVDRG" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T01:54:28.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jEkf48lPWvWam3Klhoqa" version="20.0.1" type="github">
   <diagram id="D-ijLC6CdJRX07PolVYX" name="第 1 页">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         <mxCell id="Zfp4y9QuCnKmqa6ml60_-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zfp4y9QuCnKmqa6ml60_-1">
           <mxGeometry x="360" y="23" width="120" height="407" as="geometry" />
         </mxCell>
-        <mxCell id="Zfp4y9QuCnKmqa6ml60_-27" value="爬虫系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Zfp4y9QuCnKmqa6ml60_-1">
+        <mxCell id="Zfp4y9QuCnKmqa6ml60_-27" value="采集系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Zfp4y9QuCnKmqa6ml60_-1">
           <mxGeometry x="360" y="23" width="120" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Zfp4y9QuCnKmqa6ml60_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Zfp4y9QuCnKmqa6ml60_-1" source="Zfp4y9QuCnKmqa6ml60_-28" target="Zfp4y9QuCnKmqa6ml60_-11">
